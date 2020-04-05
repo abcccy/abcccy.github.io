@@ -69,11 +69,13 @@ CGTNFHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165
 香港频道,#genre#
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+香港RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8#RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
 
 澳门频道,#genre#
 
 台湾频道,#genre#
+台湾希望台,http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 中视,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -123,10 +125,14 @@ TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
 
 国外频道,#genre#
-
+M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+法国France,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 成人频道_4862963,#genre#
-
+IBIZ1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+IBIZ2,https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+IBIZ3,https://cdn1.ibizastream.biz:441/free/3/playlist_dvr.m3u8
+IBIZ4,https://cdn1.ibizastream.biz:441/free/4/playlist_dvr.m3u8
 
 测试频道,#genre#
 珠江电影,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=7?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
