@@ -152,46 +152,14 @@ IBIZA2(主),https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.
 日本AV无码,rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 xx1,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
-xx2,https://5c4d56be6c927.streamlock.net/SEXYSAT/livestream/playlist.m3u8
-BRAZZERS,http://mylatinotv.com:25461/live/oz/oz/14598.m3u8
-P,http://188.35.9.5:10005/stolen/153a/imposter.rar
+
 P,http://188.35.9.9:21121/udp/129i
 
-1,http://fxzb.bbwqg.cn/proxy/box.php?id=1
-2,http://fxzb.bbwqg.cn/proxy/box.php?id=2
-3,http://fxzb.bbwqg.cn/proxy/box.php?id=3
-4,http://fxzb.bbwqg.cn/proxy/box.php?id=4
-5,http://fxzb.bbwqg.cn/proxy/box.php?id=5
-6,http://fxzb.bbwqg.cn/proxy/box.php?id=6
-7,http://fxzb.bbwqg.cn/proxy/box.php?id=7
-8,http://fxzb.bbwqg.cn/proxy/box.php?id=8
-9,http://fxzb.bbwqg.cn/proxy/box.php?id=9
-10,http://fxzb.bbwqg.cn/proxy/box.php?id=10
-
-Porn hub,http://2ng.ru/4cy
 
 X1,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
-桃花台,http://164.40.161.46:8003/play/s6
-俄罗斯菊花台,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/147/index.m3u8
-BARELY LEGAL TV,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/871/index.m3u8
-Pink O,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/874/index.m3u8
-Sext6senso Italia,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/875/index.m3u8
-PRIVE,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/877/index.m3u8
-Passion XXX,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/878/index.m3u8
-WAAYH,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/922/index.m3u8
-CANDY,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/923/index.m3u8
-blue HUSTLER,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1064/index.m3u8
-PENTHOUSE HD,http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
-
-3,http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0
-livestream,http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-REDLIGHTHD,http://176.67.207.10:3523/udp/239.1.7.21:22721
-Русская Ночь,http://188.35.9.11:21051/udp/071l
-Ⅹ,http://91.194.72.46:10043/play/DorcelHD/index.m3u8
-❤(备),http://91.204.234.3:8000/play/a001/index.m3u8
 Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
-vk.com iptv4,http://188.35.9.5:10007/stolen/214g/parasite.install
+
 Private TV HD,http://188.35.9.5:10005/stolen/153a/imposter.rar
 JASMIN,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?auth=zarin:RJsKR
 Jasmin HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
