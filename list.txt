@@ -181,8 +181,8 @@ CHC高清电影,http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8#http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-Nat Geo Wild HD,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8#
+国家地理野生,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 National Geographic,http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
