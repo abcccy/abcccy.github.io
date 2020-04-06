@@ -191,10 +191,8 @@ National Geographic WILD (Backup),http://livestream.biznetvideo.net/biznet_ngwil
 National Geograpic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 Models,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 中视,http://111.13.111.192/125.227.198.89:8020
-WorldFashionChannelInternational,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
-WorldFashionChannelInternationalHD,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-WorldFashionChannelРоссия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
-WorldFashionChannelРоссияHD,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+WorldFashionChannelInternational,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+WorldFashionChannelРоссия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 ==以下纳加源==,http:sdfsdf.com
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
