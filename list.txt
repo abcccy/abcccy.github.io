@@ -71,6 +71,7 @@ CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.24
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.m3u8
 凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
