@@ -1,12 +1,12 @@
 央视频道,#genre#
 CCTV-1综合,http://112.50.243.8/PLTV/88888888/224/3221225812/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-2财经,http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-CCTV-3综艺,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV-3综艺,http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
 CCTV-4中文国际,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-CCTV-5体育,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-6电影,http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+CCTV-5体育,http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
+CCTV-6电影,http://121.31.30.87:8085/ysten-business/live/cctv-6/1.m3u8
 CCTV-7国防军事,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-CCTV-8电视剧,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV-8电视剧,http://121.31.30.87:8085/ysten-business/live/cctv-8/1.m3u8
 CCTV-9纪录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 CCTV-10科技,http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
 CCTV-11戏曲,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
@@ -15,8 +15,13 @@ CCTV-13新闻,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 CCTV-14少儿,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 CCTV-15音乐,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-17农业农村,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-4美洲,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+CCTV-4欧洲,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 CCTV-5+体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+CNC,http://livecdn1.news.cn/cnccn/manifest.m3u8
 CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国交通,http://tv.lanjingfm.com/cctbn/beijing.m3u8
 
 卫星频道,#genre#
 北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
@@ -25,6 +30,7 @@ CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.24
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 广东卫视,http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225942/1.m3u8
+南方卫视,http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 深圳卫视,http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
 广西卫视,http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
 海南卫视,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
@@ -39,7 +45,7 @@ CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.24
 山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
 山西卫视,http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 河北卫视,http://112.50.243.8/PLTV/88888888/224/3221225837/1.m3u8
-河南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河南卫视,http://121.31.30.87:8085/ysten-business/live/henanstv/1.m3u8
 陕西卫视,http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
 云南卫视,http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
 贵州卫视,http://112.50.243.8/PLTV/88888888/224/3221225838/1.m3u8
@@ -50,8 +56,11 @@ CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.24
 甘肃卫视,http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
 宁夏卫视,http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
 新疆卫视,http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
-西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10049&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=O9UD8C63ELMVSRJDPYIWSF89710V&ts=1553498916
+西藏卫视,http://121.31.30.87:8085/ysten-business/live/xizangstv/1.m3u8
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
+安多卫视,http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+兵团卫视,http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 
 地方频道,#genre#
 湖南国际,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
@@ -71,11 +80,15 @@ CGTNFHD,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8#http://112.50.24
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.m3u8
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.m3u8#http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+无线新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1586193783~exp=1586280183~acl=/newslive/smil:mobile_inews.smil/*~hmac=b366dda208098fc0343300a0244099e2d40d52f85173d4b7fd1031b543cc3814
+有线综合娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 香港开电视【!】,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
@@ -83,13 +96,26 @@ MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&Fv
 
 澳门频道,#genre#
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8#http://61.58.60.230:9319/live/256.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门澳视卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-莲花卫视,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+澳门有线 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
+澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
+互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
+莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
 台湾频道,#genre#
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+大爱1台,http://tv1.wanfudaluye.com/live/live.m3u8
+大爱2台,http://tv2.wanfudaluye.com/live/live.m3u8
+大爱海外台,http://tv3.wanfudaluye.com/live/live.m3u8
+原住民族电视,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+信吉,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+生命,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
+=======,http://aaa.com
 台湾希望台,http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 中视,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
@@ -142,6 +168,8 @@ TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
 国外频道,#genre#
 M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 法国France,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 成人频道_4862963,#genre#
 IBIZ1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
