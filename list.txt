@@ -129,7 +129,7 @@ FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 生命,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 
 国际频道,#genre#
-
+HBO,https://cqnygl001.morequick.cn:84/ch/live1504/mqlive.m3u8
 
 国外频道,#genre#
 M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -180,7 +180,6 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 30,http://52.231.193.115:25461/live/8Ak9NwLa8K/Fl7Oa6WIwi/30.m3u8
 
 测试频道,#genre#
-HBO,https://cqnygl001.morequick.cn:84/ch/live1504/mqlive.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 National Geographic People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 National Geographic Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
