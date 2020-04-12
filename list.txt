@@ -139,6 +139,8 @@ M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 法国France,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+WorldFashionChannelInternational,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+WorldFashionChannelРоссия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 
 成人频道_4862963,#genre#
 IBIZ1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
@@ -261,8 +263,6 @@ National Geographic WILD (Backup),http://livestream.biznetvideo.net/biznet_ngwil
 National Geograpic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 Models,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 中视,http://111.13.111.192/125.227.198.89:8020
-WorldFashionChannelInternational,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-WorldFashionChannelРоссия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 ==以下纳加源==,http:sdfsdf.com
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
