@@ -97,9 +97,6 @@ MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&Fv
 澳门频道,#genre#
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8#http://61.58.60.230:9319/live/256.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳门澳视卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳门澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门有线 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
