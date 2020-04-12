@@ -97,10 +97,10 @@ MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&Fv
 澳门频道,#genre#
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8#http://61.58.60.230:9319/live/256.m3u8
+莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 澳门有线 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
-莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
 台湾频道,#genre#
 中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
