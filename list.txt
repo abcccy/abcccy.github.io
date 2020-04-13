@@ -177,6 +177,7 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+====,http://dsfskfj.com
 Шалун ТВ,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
 О-Lа-Lа 18+,https://plbl.m9.lfstrm.tv/olala/normal/1/index.m3u8
 Playboy TV 18+,https://plbl.m9.lfstrm.tv/playboy/normal/1/index.m3u8
@@ -184,6 +185,27 @@ Playboy TV 18+,https://plbl.m9.lfstrm.tv/playboy/normal/1/index.m3u8
 Barely Legal,https://plbl.m9.lfstrm.tv/barely_legal/normal/1/index.m3u8
 Blue Hustler,https://plbl.m9.lfstrm.tv/blue_hustler/normal/1/index.m3u8
 Brazzers,https://plbl.m9.lfstrm.tv/brazzers/normal/1/index.m3u8
+......,http://sfjjf.io
+Interracial,https://ch.iptvmate.net/e14f9ff51bc385fc890e9da51df17296.m3u8
+Interracial HD,http://live.redtraffic.xyz/interracial.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Latina HD,http://live.redtraffic.xyz/latina.m3u8
+Lesbian HD,http://live.redtraffic.xyz/lesbian.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+Milf,https://ch.iptvmate.net/bbb4f0f3223a8ca2c0cf8f57096c1b24.m3u8
+Milf HD,http://live.redtraffic.xyz/milf.m3u8
+Penthouse,http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+Playboy TV,http://178.217.72.66:80/225.201.2.108/tracks-v1a1/mono.m3u8
+Pornstar,https://ch.iptvmate.net/7e9b8590de2930bd490dc661f1408e68.m3u8
+Pornstar HD,http://live.redtraffic.xyz/pornstar.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+POV HD,http://live.redtraffic.xyz/pov.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Russian,https://ch.iptvmate.net/13fdb0c3c52d9236f2dbec874589bb8a.m3u8
+SCT,http://188.35.9.9:21141/udp/202w
+Super One,http://188.35.9.5:10007/stolen/246r/parasite.install
+Teen,http://cdn.adultiptv.net/teen.m3u8
+XXX,http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
 
 测试频道,#genre#
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
