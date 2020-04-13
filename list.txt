@@ -190,8 +190,6 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 27,http://52.231.193.115:25461/live/8Ak9NwLa8K/Fl7Oa6WIwi/27.m3u8
 28,http://52.231.193.115:25461/live/8Ak9NwLa8K/Fl7Oa6WIwi/28.m3u8
 30,http://52.231.193.115:25461/live/8Ak9NwLa8K/Fl7Oa6WIwi/30.m3u8
-
-测试频道,#genre#
 Шалун ТВ,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
 О-Lа-Lа 18+,https://plbl.m9.lfstrm.tv/olala/normal/1/index.m3u8
 Playboy TV 18+,https://plbl.m9.lfstrm.tv/playboy/normal/1/index.m3u8
@@ -199,6 +197,8 @@ Playboy TV 18+,https://plbl.m9.lfstrm.tv/playboy/normal/1/index.m3u8
 Barely Legal,https://plbl.m9.lfstrm.tv/barely_legal/normal/1/index.m3u8
 Blue Hustler,https://plbl.m9.lfstrm.tv/blue_hustler/normal/1/index.m3u8
 Brazzers,https://plbl.m9.lfstrm.tv/brazzers/normal/1/index.m3u8
+
+测试频道,#genre#
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 National Geographic People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 National Geographic Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
