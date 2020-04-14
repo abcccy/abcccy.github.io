@@ -128,7 +128,7 @@ FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 生命,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 
-国外频道,#genre#
+国际频道,#genre#
 HBO,https://cqnygl001.morequick.cn:84/ch/live1504/mqlive.m3u8
 法国France,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
@@ -137,17 +137,9 @@ NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
-娱乐时尚,#genre#
+时尚频道,#genre#
 M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-WorldFashionChannelInternational,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-WorldFashionChannelРоссия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
-ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-Models Inc.,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 
 成人频道_4862963,#genre#
 IBIZ1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
@@ -211,6 +203,16 @@ XXX,http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 National Geographic People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 National Geographic Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+National Geographic,http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
+National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+National Geographic Abu Dhabi,http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+National Geographic WILD (Backup),http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8#
+国家地理野生,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+
 台视,http://111.13.111.192/125.227.198.89:8001
 环宇新闻台湾台,http://111.13.111.192/125.227.198.89:8002
 BBC,http://111.13.111.192/125.227.198.89:8003
@@ -268,15 +270,6 @@ FashionTV Czech&Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?flu
 CHC高清电影,http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
-Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8#
-国家地理野生,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-National Geographic,http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-National Geographic Abu Dhabi,http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-National Geographic WILD (Backup),http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-National Geograpic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 中视,http://111.13.111.192/125.227.198.89:8020
 ==以下纳加源==,http:sdfsdf.com
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
@@ -424,4 +417,3 @@ FOX体育3HD,vjms://23.237.33.155:8500:3502/live/cid=95
 TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
 TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 动物星球,mitv://198.255.74.87:9906/5dc08f05000df9b701b7a09b8365395a.ts#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
-
