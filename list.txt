@@ -368,6 +368,7 @@ DOX英伦HD,http://103.145.39.136/gz.php?id=doxylhd
 时尚频道,#genre#
 M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+F,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 海外频道,#genre#
 国家地理,rtmp://58.200.131.2/livetv/natlgeo#http://103.145.39.136/gz.php?id=gjdl
