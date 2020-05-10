@@ -238,8 +238,8 @@ CGTNFHD,http://117.148.187.83/PLTV/88888888/224/3221226314/index.m3u8
 外语频道,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 生活时尚,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/shsshd/2300000/mnf.m3u8
 生活时尚,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-魅力音乐,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/2300000/mnf.m3u8
-魅力音乐,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/2300000/mnf.m3u8
+魅力足球,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 幸福彩,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xfchd/2300000/mnf.m3u8
 幸福彩,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
 炫动卡通,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
@@ -276,21 +276,14 @@ CGTNFHD,http://117.148.187.83/PLTV/88888888/224/3221226314/index.m3u8
 凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空卫视,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-J2,https://pl0-hls.live.huajiao.com/live_huajiao_v2/3c737b5e1efb1d023101be3fa83dfedf/playlist.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
 翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/0b35946cb77b8e0f3e430ca06310d6c5/playlist.m3u8
 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/b1da26cb8ef06a3e3d5f3320eeea881f/playlist.m3u8
-无线新闻台,http://47.240.103.169:10080/vhls/kGSlynjWg/kGSlynjWg_live.m3u8
 有线综合娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
 有线综合娱乐,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
-C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
-赛马频道,http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
 香港开电视【!】,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
@@ -303,8 +296,28 @@ MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&Fv
 
 台湾频道,#genre#
 环宇新闻台,http://111.13.111.192/125.227.198.89:8026
-FX,http://111.13.111.192/125.227.198.89:8027
-探索,http://111.13.111.192/125.227.198.89:8028
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+华纳电影,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+FOX电影,http://111.13.111.192/125.227.198.89:8027
+FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+历史频道,http://111.13.111.192/125.227.198.89:8028
+原住民族电视,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+生命,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
+
+
 
 电影频道,#genre#
 黑莓电影,http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226755/index.m3u8
@@ -340,7 +353,6 @@ FashionTV Czech&Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?flu
 
 海外频道,#genre#
 国家地理,rtmp://58.200.131.2/livetv/natlgeo
-探索频道,rtmp://58.200.131.2/livetv/discovery
 法国France,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -349,22 +361,9 @@ NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
 成人频道_4862963,#genre#
-菊花台,http://188.35.9.8:21051/udp/071l
-花花公子,http://188.35.9.8:21141/udp/184h
-OLALA,http://188.35.9.8:21101/udp/118v
-BB,http://188.35.9.5:10007/stolen/246r/parasite.install
 IBIZ1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 IBIZ2,https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-IBIZ3,https://cdn1.ibizastream.biz:441/free/3/playlist_dvr.m3u8
-IBIZ4,https://cdn1.ibizastream.biz:441/free/4/playlist_dvr.m3u8
-xx1,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
-P,http://188.35.9.9:21121/udp/129i
-X1,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
-Private TV HD,http://188.35.9.5:10005/stolen/153a/imposter.rar
-JASMIN,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?auth=zarin:RJsKR
-Jasmin HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Vivid TV Europe,http://188.35.9.26:2031/udp/031a
+
 MILF,http://live.redtraffic.xyz/milf.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,https://ch.iptvmate.net/13fdb0c3c52d9236f2dbec874589bb8a.m3u8
@@ -411,78 +410,11 @@ Super One,http://188.35.9.5:10007/stolen/246r/parasite.install
 XXX,http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
 
 测试频道,#genre#
-壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-人间卫视,http://54.64.23.79:1935/live/vod/playlist.m3u8
-靖天映畫,http://61.58.60.230:9319/live/244.m3u8
-靖洋卡通台,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通台,http://61.58.60.230:9319/live/207.m3u8
-靖天國際台,http://61.58.60.230:9319/live/205.m3u8
-靖天育樂台,http://61.58.60.230:9319/live/204.m3u8
-靖天資訊台,http://61.58.60.230:9319/live/202.m3u8
-靖天戲劇台,http://61.58.60.230:9319/live/203.m3u8
-靖天日本台,http://61.58.60.230:9319/live/243.m3u8
-大愛一臺HD,http://tv1.wanfudaluye.com/live/live.m3u8
-大愛二臺HD,http://tv2.wanfudaluye.com/live/live.m3u8
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中视,http://111.13.111.192/125.227.198.89:8020
-华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-华视,http://111.13.111.192/125.227.198.89:8013
-华视,http://111.13.111.192/125.227.198.89:8019
-年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森新闻,http://80.245.105.21:8006/lbtv/live/kwzq1rse/94zf0c2v/index.m3u8
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天新闻,http://111.13.111.192/125.227.198.89:8021
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-动物星球,mitv://198.255.74.87:9906/5dc08f05000df9b701b7a09b8365395a.ts#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
-华纳电影,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
-大爱1台,http://tv1.wanfudaluye.com/live/live.m3u8
-大爱2台,http://tv2.wanfudaluye.com/live/live.m3u8
-大爱海外台,http://tv3.wanfudaluye.com/live/live.m3u8
-原住民族电视,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-信吉,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-生命,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
-National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-National Geographic,http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-National Geographic People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-National Geographic Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-National Geographic Abu Dhabi,http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-National Geographic WILD (Backup),http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8#http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8#
-国家地理野生,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-1,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-Fashion TV L'Original,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-Fashion TV Midnite Secrets,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-Fashion TV Midnite Secrets,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-Fashion TV Midnite Secrets,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Fashion TV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-Fashion TV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-Fashion TV Paris,http://bit.ly/2zOVkbF
-Fashion TV Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-Fashion TV Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-Fashion TV Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-Fashion TV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Fashion TV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-Fashion TV PG13,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-Fashion TV PG13,http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Fashion TV PG13,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-Fashion TV PG16,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-Fashion TV PG16,http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Fashion TV PG16,https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
-Fashion TV PG16,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-2,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+法国时尚(备),http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+1,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+1080P(1920*1080),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+720P(1280*720),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+480P(854*480),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+360P(640*360),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
+240P(426*240),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
+144P(256*144),http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b380000_t64MTQ0cA==.m3u8
